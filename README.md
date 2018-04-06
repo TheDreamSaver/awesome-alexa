@@ -8,7 +8,9 @@
 \- [Alexa developers YouTube Channel](https://www.youtube.com/AlexaDevelopers) \- watch Alexa devs videos to understand more about Alexa  
 \- [Tutorials - Codecademy](https://alexa.design/codecademy) \- watch tutorials from Codecademy and learn to build a skill  
 \- [Training Courses](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching Alexa devs training courses  
-\- [Webinar Recordings](https://developer.amazon.com/alexa-skills-kit/webinars?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching webinar recordings
+\- [Webinar Recordings](https://developer.amazon.com/alexa-skills-kit/webinars?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching webinar recordings  
+\- [YouTube video: making skills with Node and AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g) - Alexa 101  
+\- [Dabble Lab free Alexa course](https://learn.dabblelab.com/)
 
 **Github Repository**  
 \- [Github Repository](https://github.com/alexa) – glance through templates for Alexa skills  
@@ -34,7 +36,8 @@
 \- [PullString (Design, Prototype, and Publish Voice Apps)](https://www.pullstring.com/)
 
 **Programming Languages & SDKs**  
-\- [Alexa Skills Kit SDK for JavaScript / Node.js (Lambda)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)  
+\- [Alexa Skills Kit SDK for JavaScript / Node.js (Lambda)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)   
+\- [Flask-Ask Alexa Skills kit for Python](https://github.com/johnwheeler/flask-ask)
 \- [Creating SSML (Speech Synthesis Markup Language) using the builder pattern](https://github.com/mandnyc/ssml-builder)  
 \- **Java:** [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java)  
 \- **Python:** [Flask-Ask](https://github.com/johnwheeler/flask-ask)  
