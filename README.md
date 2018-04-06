@@ -38,13 +38,14 @@
 \- [Creating SSML (Speech Synthesis Markup Language) using the builder pattern](https://github.com/mandnyc/ssml-builder)  
 \- **Java:** [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java)  
 \- **Python:** [Flask-Ask](https://github.com/johnwheeler/flask-ask)  
-\- **C# / .NET:** [Alexa Skills SDK for .NET](https://github.com/timheuer/alexa-skills-dotnet) \- **Ruby:** [https://github.com/sjmog/ralyxa](https://github.com/sjmog/ralyxa).
+\- **C# / .NET:** [Alexa Skills SDK for .NET](https://github.com/timheuer/alexa-skills-dotnet)  
+\- **Ruby:** [https://github.com/sjmog/ralyxa](https://github.com/sjmog/ralyxa).
 
 **Tools**  
 \- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)  
 \- [Bespoken CLI (Develop, Debug, and Test Live on Your Laptop)](https://bespoken.io/alexa-skills/)  
 \- [Skillinator (prototype Alexa Skills for Alexa Skills Kit SDK for JavaScript / Node.js (Lambda))](https://skillinator.io/)
 
-**Developer Perks**
-\- [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits)
-\- [Free Tshirts/hoodies/Echo dots](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion)
+**Developer Perks**  
+\- [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits)  
+\- [Free Tshirts/hoodies/Echo dots](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion) 
