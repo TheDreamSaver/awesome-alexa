@@ -10,7 +10,9 @@
 \- [Training Courses](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching Alexa devs training courses  
 \- [Webinar Recordings](https://developer.amazon.com/alexa-skills-kit/webinars?&sc_channel=Referrals&sc_campaign=VirtualHack_HE_Feb&sc_publisher=HE&sc_content=VirtualHackPromo&sc_funnel=Discover&sc_country=IN&sc_medium=HEPromos&sc_segment=IndiaDevs&sc_trackingcode=REF_IN_FebHack_HE) – learn by watching webinar recordings  
 \- [YouTube video: making skills with Node and AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g) - Alexa 101  
-\- [Dabble Lab free Alexa course](https://learn.dabblelab.com/)
+\- [Dabble Lab free Alexa course](https://learn.dabblelab.com/) - **My personal favourite!**  
+\- [Dabble Lab Youtube Channel](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg) - **My personal favourite!**  
+\- [Jamie's Dev Shed](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - learn to develope for Echo Show    
 
 **Github Repository**  
 \- [Github Repository](https://github.com/alexa) – glance through templates for Alexa skills  
