@@ -54,3 +54,6 @@
 **Developer Perks**  
 \- [AWS Promotional Credits](https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits)  
 \- [Free Tshirts/hoodies/Echo dots](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion) 
+
+**Events**  
+\- [Alexa Dev Days](https://developer.amazon.com/alexa/devday) - Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Learners of all levels can join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.
