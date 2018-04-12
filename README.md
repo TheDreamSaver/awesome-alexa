@@ -33,6 +33,7 @@
 \- [Join us for 'Helpdesk: ASK and Architect'](https://register.gotowebinar.com/rt/6354443123252188675) – every Thursday get answer to your Alexa-related questions from 3.00 PM IST
 
 **Designing / Protoyping / Platforms**  
+\- [VoiceApps (Build Alexa Skills in Minutes)](https://voiceapps.com/)  
 \- [Sayspring (Voice Prototypes for Amazon Alexa)](https://www.sayspring.com/)  
 \- [Storyline (Create voice apps without coding)](https://getstoryline.com)  
 \- [PullString (Design, Prototype, and Publish Voice Apps)](https://www.pullstring.com/)
