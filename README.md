@@ -12,7 +12,7 @@
 \- [YouTube video: making skills with Node and AWS Lambda](https://www.youtube.com/watch?v=zt9WdE5kR6g) - Alexa 101  
 \- [Dabble Lab free Alexa course](https://learn.dabblelab.com/) - **My personal favourite!**  
 \- [Dabble Lab Youtube Channel](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg) - **My personal favourite!**  
-\- [Jamie's Dev Shed](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - learn to develope for Echo Show    
+\- [Jamie's Dev Shed](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - learn to develop for Echo Show    
 \- [Flask-Ask Sentdex Youtube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe3E0TlV7q7bFyMqbnO5-TL) - Using Flask (python framework) to build a skill
 
 **Github Repository**  
