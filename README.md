@@ -13,7 +13,8 @@
 \- [Dabble Lab free Alexa course](https://learn.dabblelab.com/) - **My personal favourite!**  
 \- [Dabble Lab Youtube Channel](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg) - **My personal favourite!**  
 \- [Jamie's Dev Shed](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - learn to develop for Echo Show    
-\- [Flask-Ask Sentdex Youtube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe3E0TlV7q7bFyMqbnO5-TL) - Using Flask (python framework) to build a skill
+\- [Flask-Ask Sentdex Youtube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe3E0TlV7q7bFyMqbnO5-TL) - Using Flask (python framework) to build a skill  
+\- [Alexa Development in Hindi](https://www.youtube.com/playlist?list=PLeGnn0qRry39iqd3w44KL41eGBHMod-8u) - Building Amazon Alexa Skills explained in Hindi
 
 **Github Repository**  
 \- [Github Repository](https://github.com/alexa) – glance through templates for Alexa skills  
