@@ -41,13 +41,13 @@
 \- [PullString (Design, Prototype, and Publish Voice Apps)](https://www.pullstring.com/)
 
 **Programming Languages & SDKs**  
-\- [Alexa Skills Kit SDK for JavaScript / Node.js (Lambda)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)   
+\- **JavaScript:** [Alexa Skills Kit SDK for JavaScript / Node.js (Lambda)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)  
+\- **Java:** [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java)   
+\- **Python:** [Alexa Skills Kit SDK for Python](https://github.com/alexa/alexa-skills-kit-sdk-for-python)  
+\- **C# / .NET:** [Alexa Skills SDK for .NET](https://github.com/timheuer/alexa-skills-dotnet)   
+\- **Ruby:** [https://github.com/sjmog/ralyxa](https://github.com/sjmog/ralyxa)  
 \- [Flask-Ask Alexa Skills kit for Python](https://github.com/johnwheeler/flask-ask)
 \- [Creating SSML (Speech Synthesis Markup Language) using the builder pattern](https://github.com/mandnyc/ssml-builder)  
-\- **Java:** [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java)  
-\- **Python:** [Flask-Ask](https://github.com/johnwheeler/flask-ask)  
-\- **C# / .NET:** [Alexa Skills SDK for .NET](https://github.com/timheuer/alexa-skills-dotnet)  
-\- **Ruby:** [https://github.com/sjmog/ralyxa](https://github.com/sjmog/ralyxa).
 
 **Tools**  
 \- [Alexa Skills Kit Command Line Interface (ASK CLI)](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)  
